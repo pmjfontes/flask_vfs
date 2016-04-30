@@ -1,0 +1,9 @@
+This module is a simplistic virtual file system which allow performing CRUD action on the file-system using a REST API
+
+TODO:
+	- Add method to rename files and directories
+	- Figure out authentication schemes which work with Flask
+	- Look into the response message to be more "RESTFull"
+	- Change the according to the Flask Extention Development http://flask.pocoo.org/docs/0.10/extensiondev/
+	
+Software under MIT License.
